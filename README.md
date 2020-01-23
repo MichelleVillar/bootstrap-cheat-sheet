@@ -15,3 +15,4 @@ You can use this cheat sheet to pull and customize Bootstrap components for your
 * We don’t need the JS folder for this example
 * Comments will tell you where to find these items in Bootstrap’s documentation page
 * The dummy text used here is from https://www.lipsum.com/
+* The dummy images used here is from https://dummyimage.com/
