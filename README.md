@@ -14,3 +14,4 @@ You can use this cheat sheet to pull and customize Bootstrap components for your
 * We’ll be using bootstrap.min.css for this example
 * We don’t need the JS folder for this example
 * Comments will tell you where to find these items in Bootstrap’s documentation page
+* The dummy text used here is from https://www.lipsum.com/
