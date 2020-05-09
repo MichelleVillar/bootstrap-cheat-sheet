@@ -1,7 +1,6 @@
 # Bootstrap Cheat Sheet
 
 You can use this cheat sheet to pull and customize Bootstrap components for your projects
-https://michellevillar.github.io/bootstrap-cheat-sheet/
 
 ## Getting Started
 
