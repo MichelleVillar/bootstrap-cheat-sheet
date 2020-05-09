@@ -18,4 +18,4 @@ https://michellevillar.github.io/bootstrap-cheat-sheet/
 * The dummy text used here is from https://www.lipsum.com/
 * The dummy images used here is from https://dummyimage.com/
 
-### Note that this file was created for students of an introductory Bootstrap course. Although a few things were tweaked, the file was not originally created by me. 
+###### Note that this file was created for students of an introductory Bootstrap course. Although a few things were tweaked, the file was not originally created by me. 
